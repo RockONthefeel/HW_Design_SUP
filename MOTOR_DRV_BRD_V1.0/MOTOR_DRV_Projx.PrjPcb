@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EBXHIAYR
 
 [Document5]
-DocumentPath=SENSOR_V1.0.SchDoc
+DocumentPath=I2C_SENSOR_V1.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PKAIABVS
 
 [Document6]
-DocumentPath=PWR_CON_V1.0.SchDoc
+DocumentPath=PWR_SWITCH_CON_V1.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
