@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T09:00:12.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="zieSu0ZttXOH9Qr7ugQ-" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T09:03:27.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="aXJNKtPnZVM63qSMq7sE" version="14.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,11 +46,6 @@
         </mxCell>
         <mxCell id="2HKD_gltTXgtxPYkwOB--20" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKD_gltTXgtxPYkwOB--18" target="2HKD_gltTXgtxPYkwOB--16">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2HKD_gltTXgtxPYkwOB--21" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2HKD_gltTXgtxPYkwOB--18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2HKD_gltTXgtxPYkwOB--18" value="脚踢开关触发?" style="rhombus;whiteSpace=wrap;html=1;flipH=1;flipV=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="560" width="110" height="80" as="geometry" />
